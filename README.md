@@ -1,18 +1,23 @@
 <h1 align="center"><b>Hi, I'm Agustin De Carlo</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-	
-<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> <p>**About me**</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<table>
+  <tr>
+    <td>
+      <picture>
+        <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="100px">
+      </picture>
+    </td>
+    <td>
+      <p><b>About me</b></p>
+      <ul>
+        <li>I'm finishing my medium studies also I'm studying for Computer Engineering Student</li>
+        <li>I have experience with C++, .NET, JavaScript, Python, MySQL, Arduino, and Frontend</li>
+        <li>I'm always looking for new experiences!</li>
+        <li>I speak English and Spanish</li>
+        <li>Know about me <a href="https://www.linkedin.com/in/agustindecarlo" target="_blank">Here</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<br>
-
-- Im finishing my medium studies also im studying for Computer Engineering Student
-- I have experience with c++,.net, Javascript, Python, MySQL, Arduino and Frontend
-- Im always looking for new experiences!
-- I speak english and spanish
-- Know about me <a href="www.linkedin.com/in/agustindecarlo" target="blank">Here</a>
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
