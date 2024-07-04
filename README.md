@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi, I'm Agustin De Carlo</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-<table>
+<table align="center">
   <tr>
     <td>
       <picture>
@@ -8,6 +8,7 @@
       </picture>
     </td>
     <td>
+      <br>
       <p><b>About me</b></p>
       <ul>
         <li>I'm finishing my medium studies also I'm studying for Computer Engineering Student</li>
@@ -15,6 +16,7 @@
         <li>I'm always looking for new experiences!</li>
         <li>I speak English and Spanish</li>
         <li>Know about me <a href="https://www.linkedin.com/in/agustindecarlo" target="_blank">Here</a></li>
+        <br>
       </ul>
     </td>
   </tr>
