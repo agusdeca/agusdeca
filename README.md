@@ -11,7 +11,7 @@
       <br>
       <p><b>About me</b></p>
       <ul>
-        <li>I'm finishing my medium studies also I'm studying for Computer Engineering Student</li>
+        <li>I'm finishing my medium studies also I'm studying for Computer Engineering at UBAXXI</li>
         <li>I have experience with C++, .NET, JavaScript, Python, MySQL, Arduino, and Frontend</li>
         <li>I'm always looking for new experiences!</li>
         <li>I speak English and Spanish</li>
@@ -21,5 +21,5 @@
     </td>
   </tr>
 </table>
-
+<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
