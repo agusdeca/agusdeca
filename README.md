@@ -15,7 +15,7 @@
         <li>I have experience with C++, .NET, JavaScript, Python, MySQL, Arduino, and Frontend</li>
         <li>I'm always looking for new experiences!</li>
         <li>I speak English and Spanish</li>
-        <li>Know about me <a href="https://www.linkedin.com/in/agustindecarlo" target="_blank">Here</a></li>
+        <li>Know more about me <a href="https://www.linkedin.com/in/agustindecarlo" target="_blank">Here</a></li>
         <br>
       </ul>
     </td>
